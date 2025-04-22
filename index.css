@@ -52,3 +52,7 @@ body {
   display: flex;
   gap: 2.5rem;
 }
+
+.nav-links a {
+  color: var(--dark);
+}
