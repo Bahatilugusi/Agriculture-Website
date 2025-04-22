@@ -39,4 +39,5 @@ body {
   color: var(--primary);
   text-decoration: none;
   display: flex;
+  align-items: center;
 }
