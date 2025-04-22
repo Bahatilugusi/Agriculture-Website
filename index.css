@@ -45,4 +45,5 @@ body {
 
 .logo::before {
   content: "🌲";
+  font-size: 2rem;
 }
