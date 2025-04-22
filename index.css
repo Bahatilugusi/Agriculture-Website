@@ -25,4 +25,5 @@ body {
   background-color: var(--white);
   padding: 1.5rem 3rem;
   display: flex;
+  justify-content: space-between;
 }
