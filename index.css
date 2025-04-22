@@ -42,3 +42,7 @@ body {
   align-items: center;
   gap: 0.5rem;
 }
+
+.logo::before {
+  content: "🌲";
+}
