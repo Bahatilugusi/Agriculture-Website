@@ -57,4 +57,5 @@ body {
   color: var(--dark);
   text-decoration: none;
   font-weight: 500;
+  position: relative;
 }
