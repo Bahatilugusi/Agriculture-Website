@@ -47,3 +47,7 @@ body {
   content: "🌲";
   font-size: 2rem;
 }
+
+.nav-links {
+  display: flex;
+}
