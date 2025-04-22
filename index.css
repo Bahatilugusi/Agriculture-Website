@@ -56,4 +56,5 @@ body {
 .nav-links a {
   color: var(--dark);
   text-decoration: none;
+  font-weight: 500;
 }
