@@ -59,4 +59,5 @@ body {
   font-weight: 500;
   position: relative;
   padding: 0.5rem 0;
+  transition: var(--transition);
 }
