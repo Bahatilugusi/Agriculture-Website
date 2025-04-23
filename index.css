@@ -89,4 +89,5 @@ body {
   color: var(--primary);
   font-weight: 600;
   transition: var(--transition);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
