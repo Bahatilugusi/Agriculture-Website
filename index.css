@@ -65,3 +65,6 @@ body {
 .nav-links a:hover {
   color: var(--primary);
 }
+
+.nav-links a::after {
+}
