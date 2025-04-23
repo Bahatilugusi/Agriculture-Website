@@ -67,4 +67,5 @@ body {
 }
 
 .nav-links a::after {
+  content: "";
 }
