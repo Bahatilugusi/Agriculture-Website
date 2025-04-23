@@ -87,4 +87,5 @@ body {
 }
 .link2 a {
   color: var(--primary);
+  font-weight: 600;
 }
