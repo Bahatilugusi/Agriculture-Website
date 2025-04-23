@@ -76,3 +76,6 @@ body {
   background-color: var(--primary);
   transition: var(--transition);
 }
+
+.nav-links a:hover::after {
+}
