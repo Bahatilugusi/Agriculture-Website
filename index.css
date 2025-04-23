@@ -61,3 +61,6 @@ body {
   padding: 0.5rem 0;
   transition: var(--transition);
 }
+
+.nav-links a:hover {
+}
