@@ -68,4 +68,5 @@ body {
 
 .nav-links a::after {
   content: "";
+  position: absolute;
 }
