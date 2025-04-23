@@ -86,4 +86,5 @@ body {
   gap: 2rem;
 }
 .link2 a {
+  color: var(--primary);
 }
