@@ -101,4 +101,5 @@ body {
 
 .div1 {
   display: flex;
+  justify-content: space-between;
 }
