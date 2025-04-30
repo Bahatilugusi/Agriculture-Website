@@ -154,5 +154,6 @@ body {
   font-size: 1.2rem;
 }
 .right-div{
-  
+  flex: 1;
+  position: relative;
 }
