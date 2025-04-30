@@ -107,4 +107,6 @@ body {
   padding: 4rem 0;
 }
 
-.left-div{}
+.left-div{
+  flex: 1;
+}
