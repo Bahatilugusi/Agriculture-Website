@@ -129,5 +129,6 @@ body {
   max-width: 90%;
 }
 .left-div button{
+  background: linear-gradient(to right, var(--primary), var(--secondary));
   
 }
