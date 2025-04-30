@@ -118,4 +118,5 @@ body {
   font-weight: 800;
   color: var(--dark);
   line-height: 1.2;
+  background: linear-gradient(to right, var(--primary), var(--secondary));
 }
