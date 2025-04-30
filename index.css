@@ -124,5 +124,5 @@ body {
   color: transparent;
 }
 .left-div p{
-  
+  color: var(--gray);
 }
