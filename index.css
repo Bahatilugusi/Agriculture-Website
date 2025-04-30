@@ -116,5 +116,6 @@ body {
 #p1{
   font-size: 3.2rem;
   font-weight: 800;
-  color: var(--dark);,
+  color: var(--dark);
+  line-height: 1.2;
 }
