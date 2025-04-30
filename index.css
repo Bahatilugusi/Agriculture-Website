@@ -137,4 +137,5 @@ body {
   width: 60%;
   font-size: 1.1rem;
   font-weight: 600;
+  cursor: pointer;
 }
