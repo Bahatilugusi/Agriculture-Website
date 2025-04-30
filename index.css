@@ -132,5 +132,5 @@ body {
   background: linear-gradient(to right, var(--primary), var(--secondary));
   color: var(--white);
   border: none;
-  
+  border-radius: 50px;
 }
