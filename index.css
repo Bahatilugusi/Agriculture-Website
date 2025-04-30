@@ -130,5 +130,6 @@ body {
 }
 .left-div button{
   background: linear-gradient(to right, var(--primary), var(--secondary));
+  color: var(--white);
   
 }
