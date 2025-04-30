@@ -125,4 +125,5 @@ body {
 }
 .left-div p{
   color: var(--gray);
+  font-size: 1.2rem;
 }
