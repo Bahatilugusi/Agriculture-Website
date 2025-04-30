@@ -152,4 +152,5 @@ body {
 .left-div button::after {
   content: "→";
   position: relative;
+  content: "→";
 }
