@@ -176,4 +176,6 @@ body {
   z-index: -1;
   transition: var(--transition);
 }
-.right-div:hover::before
+.right-div:hover::before{
+  
+}
