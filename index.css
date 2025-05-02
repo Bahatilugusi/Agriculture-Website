@@ -167,4 +167,5 @@ body {
 .right-div::before{
   content: "";
   position: absolute;
+  width: 100%;
 }
