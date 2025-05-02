@@ -195,4 +195,5 @@ body {
   color: var(--dark);
   margin-bottom: 1rem;
   position: relative;
+  display: inline-block;
 }
