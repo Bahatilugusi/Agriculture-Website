@@ -193,4 +193,5 @@ body {
 .heder h1{
   font-size: 2.5rem;
   color: var(--dark);
+  margin-bottom: 1rem;
 }
