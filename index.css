@@ -165,5 +165,5 @@ body {
   transition: var(--transition);
 }
 .right-div::before{
-  
+  content: "";
 }
