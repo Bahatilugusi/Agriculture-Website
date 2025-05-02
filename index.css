@@ -178,4 +178,5 @@ body {
 }
 .right-div:hover::before{
   top: 15px;
+  left: 15px;
 }
