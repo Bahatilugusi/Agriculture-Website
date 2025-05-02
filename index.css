@@ -166,4 +166,5 @@ body {
 }
 .right-div::before{
   content: "";
+  position: absolute;
 }
