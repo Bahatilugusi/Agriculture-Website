@@ -157,3 +157,6 @@ body {
   flex: 1;
   position: relative;
 }
+.right-div img{
+  width: 100%;
+}
